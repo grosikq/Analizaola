@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Analiza",
-    "slug": "analizaola",
+    "slug": "analiza",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
@@ -13,7 +13,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "591eb1cc-015f-4209-b729-89cb0ec9715f" 
+        "projectId": "591eb1cc-015f-4209-b729-89cb0ec9715f"
       }
     }
   }
