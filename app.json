@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Analiza",
+    "slug": "analiza",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.aleksandrajelinska002_svg.analiza"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c27d9e83-5fa4-4153-8ee4-27ba4cbe21be" 
+      }
+    }
+  }
+}
